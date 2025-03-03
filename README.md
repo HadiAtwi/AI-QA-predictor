@@ -17,7 +17,7 @@ This application is a full-stack MVVM-based desktop tool that imports SLDV resul
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/sldv-false-positive-predictor.git
+   git clone https://github.com/HadiAtwi/AI-QA-predictor.git
    ```
 2. Navigate to the project directory:
    ```sh
